@@ -14,7 +14,7 @@ To run my own web site with my favorite domain name, I have to get my own domain
 
  First, go to [Namecheap](https://www.namecheap.com/) and search my favorite domain name brucelu.us see if it's taken or not. I'm lucky so I added my domain name to Cart and paid for the domain name. It looks like this:
 
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 
 
 

@@ -1,4 +1,4 @@
-# DNS and CDN
+# Configure DNS and CDN
 
 ## Why
 
@@ -8,13 +8,13 @@ In order to get my web site to be accessible with low latency by using my new do
 
 I chose [Cloudflare](https://www.cloudflare.com/) because it offers a free tier of DNS and CDN services. Yes, $0/month.
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%284%29.png)
 
 By following the guide, I added my site by clicking the ADD A WEBSITE button on the Free option.
 
 I configured my DNS as:
 
-![](../../.gitbook/assets/image%20%282%29.png)
+![](../../.gitbook/assets/image.png)
 
 Remember the Cloudflare Nameservers, because we'd use them later.
 
